@@ -1,9 +1,6 @@
 #include "utils.hpp"
 
 
-
-
-
     vector<vector<sc_uint<8>>> convert_to_vect(Mat& mat_image){
 
 
